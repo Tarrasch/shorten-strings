@@ -21,4 +21,4 @@ library
 
 source-repository head
   type:         git
-  location:     git://github.com/pbrisbin/yesod-goodies.git
+  location:     git://github.com/Tarrasch/shorten-strings.git
